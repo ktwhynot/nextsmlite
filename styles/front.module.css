@@ -1,0 +1,27 @@
+.messageblock{
+    border: 1px solid greenyellow;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.messageblock img{
+    margin-right: 10px;
+}
+
+.username{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.faded{
+    color: grey;
+}
+
+.smalltext{
+    font-size: small;
+}
+
+.left{
+    float: left;
+}
